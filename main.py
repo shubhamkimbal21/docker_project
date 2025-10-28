@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 def main():
-    print("🎨 Yoo Generating a sample Seaborn plot inside Docker...\n")
+    print("🎨 Yoo Yoo Generating a sample Seaborn plot inside Docker...\n")
 
     # Create a small dataset
     data = pd.DataFrame({
